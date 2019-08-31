@@ -17,4 +17,4 @@ non_entities = list(filter(None,  clean.split("|")))
 print (non_entities)
 ```
 
-[More examples and resources:](https://spacy.io/usage/linguistic-features#named-entities)
+[More examples and resources here](https://spacy.io/usage/linguistic-features#named-entities)
