@@ -1,4 +1,4 @@
-# python_building_blocks
+# Python Building Blocks
 ## Python code snippets that do small nifty things 
 
 ### 1. Spacy named entity recognition filter:
